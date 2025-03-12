@@ -1,0 +1,5 @@
+amountA*amountB=fixed;
+//i need token B , so i need to give some A 
+get the amount user is willing to give lets say(givA)
+amountB=(amountA*amountB)/(givA+amountA);
+Biven=amount 
