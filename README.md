@@ -1,5 +1,5 @@
 # Liquidity Pool Smart Contract
-
+![.ENV Badge](https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=flat-square) ![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=flat-square) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square) ![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=flat-square) ![Ethers Badge](https://img.shields.io/badge/Ethers-2535A0?logo=ethers&logoColor=fff&style=flat-square)
 ## Overview
 This repository contains a Solidity smart contract implementing a simple liquidity pool that allows token swaps between two ERC20 tokens. The contract provides functionalities for adding and removing liquidity, as well as swapping tokens.
 
